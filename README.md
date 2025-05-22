@@ -8,9 +8,13 @@ An AI assistant
 
 - News reader
 
+- Nag mode, you need to constantly nag someone to pay you, do some work, etc. This bitch is gonna contact this madafaka every day on every social network until he delivers. 
+
 - Calendar
 
 - ADHD routine management
+
+- Elderly care assitance
 
 - Alsheimer Exercises
 
